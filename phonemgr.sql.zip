@@ -1,2 +1,0 @@
-<br />
-<b>Fatal error</b>:  Allowed memory size of 16777216 bytes exhausted (tried to allocate 11796532 bytes) in <b>/usr/share/phpmyadmin/export.php</b> on line <b>132</b><br />
